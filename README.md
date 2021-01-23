@@ -1,2 +1,2 @@
 # test
-[cfff] (ggg/testfff.txt)
+[cfff](test/ggg/testfff.txt)
