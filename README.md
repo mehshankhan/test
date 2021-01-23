@@ -1,2 +1,2 @@
 # test
-cfff
+cfff[../ggg]
